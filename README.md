@@ -1,1 +1,2 @@
-# Reproductor-de-m-sica-con-lista-circular-en-C-
+programa en C++ que simula un reproductor de música utilizando una lista circular.
+
